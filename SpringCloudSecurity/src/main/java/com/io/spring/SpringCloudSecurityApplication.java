@@ -12,3 +12,6 @@ public class SpringCloudSecurityApplication {
 		SpringApplication.run(SpringCloudSecurityApplication.class, args);
 	}
 }
+
+
+// it is getting some error 
